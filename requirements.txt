@@ -1,0 +1,13 @@
+pyrogram
+tgcrypto
+motor
+marshmallow
+umongo
+pytz
+cinemagoer
+shortzy
+aiohttp
+aiofiles
+telegraph
+openai
+pyromod
